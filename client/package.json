@@ -10,7 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     
+=======
+>>>>>>> c4cd2d7e7a857031ac483907d0a8f5193b252c71
     "@tailwindcss/vite": "^4.0.0",
     "axios": "^1.7.9",
     "motion": "^12.0.5",
